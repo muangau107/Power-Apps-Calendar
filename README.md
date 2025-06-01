@@ -14,10 +14,10 @@ The Vietnam Holiday Calendar app is built using Microsoft Power Apps, designed t
 
 **🖼 User Interface**
 
-  _Example: "International Children's Day" on June 1, 2025._
+  _Example: "International Children's Day" on June 1, 2025"._
 
-**🔧 System Requirements
-**
+**🔧 System Requirements**
+
   - A Microsoft 365 account with access to Power Apps.
 
   - Data source connected to a holiday list (e.g., SharePoint List or Dataverse).
